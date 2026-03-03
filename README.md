@@ -1,7 +1,10 @@
 # svelte-go-steam
 > based upon https://github.com/dresswithpockets/go-steam-openid-template
 
-Features
+> [!NOTE]
+> see https://github.com/jump-fortress/site for a more complex example project
+
+## features
 - Steam OpenID auth flow
 - [Huma api](https://github.com/danielgtaylor/huma) and docs with permissions middleware using sqlite3
 - [migrate cli](https://github.com/golang-migrate/migrate) to manage sql migrations
