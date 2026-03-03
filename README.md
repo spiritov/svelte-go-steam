@@ -6,7 +6,7 @@ Features
 - [Huma api](https://github.com/danielgtaylor/huma) and docs with permissions middleware using sqlite3
 - [migrate cli](https://github.com/golang-migrate/migrate) to manage sql migrations
 - [sqlc](https://github.com/sqlc-dev/sqlc) to generate Go types and functions from sql
-- [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) to generate types from the apis's schema
+- [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) to generate types from the apis's schema, used with openapi-fetch
 - basic example backend
 - bring your own Svelte framework! (Typescript & Tailwind are included here..)
 
