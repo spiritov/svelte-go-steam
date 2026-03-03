@@ -12,7 +12,7 @@ Features
 
 ## quickstart
 1. install go 1.25
-2. reference [.env.local.example](api/env/.env.local.example) to populate `/api/env/.env.local`
+2. reference [.env.local.example](api/env/.env.example) to populate `/api/env/.env.local`
 3. install `migrate` and `sqlc`, init sqlite3 db
 ```sh
 cd api
